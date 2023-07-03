@@ -54,7 +54,7 @@ assets\minecraft\textures\custom\
 
 ```
 
-8. If you want multiple skins then you need to redo all those steps in the same template pack. Make sure all files have a different name. Make sure that the **flint.json** file from the last step is updated to support all the skins. There needs to be commas at the ends of all curly brackets except the last one. Here is a example.
+9. If you want multiple skins then you need to redo all those steps in the same template pack. Make sure all files have a different name. Make sure that the **flint.json** file from the last step is updated to support all the skins. There needs to be commas at the ends of all curly brackets except the last one. Here is a example.
 
 ```
 "overrides":
@@ -65,7 +65,7 @@ assets\minecraft\textures\custom\
 
 ```
 
-9. Now you can copy the template pack and paste it into your resource pack folder. The resource pack is finished! You can now launch the game. If you did everything correctly, you should now be able to modify the following command with your custom model data number and get the model you wanted.
+10. Now you can copy the template pack and paste it into your resource pack folder. The resource pack is finished! You can now launch the game. If you did everything correctly, you should now be able to modify the following command with your custom model data number and get the model you wanted.
 
 ```
 /give @s flint{CustomModelData:(custom model data number)}
