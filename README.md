@@ -78,6 +78,21 @@ assets\minecraft\textures\custom\
 
 - Make a custom build and incorporate it inside the build
 
+## Screenshots
+
+![MiniSteves 1](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/miniSit2.png)
+
+![SnowSteves 1](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/snowman1.png)
+
+![MiniSteves 2](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/miniSit5.png)
+
+![SpideySteves 1](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/spidey1.png)
+
+![SnowSteves 2](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/snowman2.png)
+
+![SpideySteves 2](https://raw.githubusercontent.com/Dorcupi/skinify/main/screenshots/spidey3.png)
+
+
 ## About Me
 I'm Dorcupi, a Minecraft datapack developer, Python developer, YouTuber, and 100% hobbyist. I enjoy coding and I hope you enjoy what I make.
 
@@ -85,4 +100,3 @@ I'm Dorcupi, a Minecraft datapack developer, Python developer, YouTuber, and 100
 ## License
 
 [Skinify](https://github.com/Dorcupi/skinify) © 2023 by [Dorcupi](https://github.com/Dorcupi) is licensed under [Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)
-
